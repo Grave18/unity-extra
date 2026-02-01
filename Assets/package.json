@@ -1,0 +1,12 @@
+{
+  "name": "com.grave.tools.extra",
+  "displayName": "Unity-extra",
+  "author": { "name": "Grave", "url": "https://github.com/Grave18" },
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Extension scripts, math etc.",
+  "keywords": [ "code", "extra" ],
+  "license": "MIT",
+  "category": "Grave",
+  "dependencies": {}
+}
